@@ -1,6 +1,6 @@
 import express from 'express';
 
-import notesRoutes from './src/routes/noteRoutes.js';
+import notesRoutes from './routes/noteRoutes.js';
 
 const app = express();
 
